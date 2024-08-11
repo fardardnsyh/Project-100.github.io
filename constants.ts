@@ -4,30 +4,15 @@ export const socials = [
   {
     id: 1,
     name: "Twitter",
-    url: "",
-    handle: "@",
+    url: "https://www.instagram.com/fardardinsyh/",
+    handle: "@fardardinsyh",
   },
   {
     id: 2,
     name: "Instagram",
     url: "https://www.instagram.com/fardardinsyh/",
     handle: "fardardinsyh",
-  },
-	id: 3,
-    name: "Quora",
-    url: "",
-    handle: "",
-  {
   
-  },
-	id: 4,
-    name: "Linkendln",
-    url: "",
-    handle: "",
-	
-	
-	
-	
 	
   },
 ];
