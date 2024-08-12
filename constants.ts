@@ -5,13 +5,13 @@ export const socials = [
     id: 1,
     name: "Behance",
     url: "https://fardardnsyh.github.io/404part1.github.io/",
-    handle: "@fardardinsyh",
+    handle: "Farid Ardiansyah",
   },
   {
     id: 2,
     name: "Instagram",
     url: "https://fardardnsyh.github.io/404part1.github.io/",
-    handle: "fardardinsyh",
+    handle: "Farid Ardiansyah",
   },
 
 {  id: 3,
