@@ -3,7 +3,7 @@ import { Metadata } from "next";
 export const socials = [
   {
     id: 1,
-    name: "Twitter",
+    name: "Instagram",
     url: "https://www.instagram.com/fardardinsyh/",
     handle: "@fardardinsyh",
   },
@@ -12,6 +12,13 @@ export const socials = [
     name: "Instagram",
     url: "https://www.instagram.com/fardardinsyh/",
     handle: "fardardinsyh",
+  },
+
+{  id: 3,
+   name: "Quora",
+    url: "https://mencintaidirisendiriuntukfarid.quora.com/",
+    handle: "fardardnsyh",
+	  
   
 	
   },
